@@ -1,17 +1,16 @@
-### Hi there 👋
-                                                       Welcome to my page!
+### Hi there 👋 😎
 
-<!--
-**vipulm124/vipulm124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Welcome to my page! </br> I'm Vipul, a Full stack Software Developer from <b>India</b>.</p>
 
-Here are some ideas to get you started:
+<p>
+I try to solve world problems, just by writing code. The impact of code on people's life is both interesting and exciting for me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am coding language agnostic, so I am not baised for a single programming language. I like to explore new languages and try things, beyond Hello World, in the same.
+
+In case you come across an opportunity for someone like me, please reach out to me.
+
+</p>
+
+<!-- TECHNOLOGIES -->
+<h3>:zap: Technologies</h3>
+
