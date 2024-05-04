@@ -42,7 +42,7 @@ In case you come across an opportunity for someone like me, please reach out to 
 
 
 <!-- SOCIAL -->
-<h3>Let's connect</h3>
+<h3>Let's connect 🤜🤛</h3>
 
 <p>
     <a href="https://github.com/vipulm124" target="_blank">
