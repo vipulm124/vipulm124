@@ -40,7 +40,6 @@ In case you come across an opportunity for someone like me, please reach out to 
     <img src="https://github-readme-stats.vercel.app/api?username=vipulm124&show_icons=true&theme=tokyonight" alt="my github stats" width="400"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipulm124&layout=compact&theme=tokyonight" alt="languages" height="160">
 </a>
 
-
 <!-- SOCIAL -->
 <h3>Let's connect 🤜🤛</h3>
 
