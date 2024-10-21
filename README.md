@@ -1,4 +1,4 @@
-### Hi there 👋 😎
+### Hi there! 👋 😎
 
 <p align="center">Welcome to my page! </br> I'm Vipul, a Full stack Software Developer from <b>India</b>.</p>
 
