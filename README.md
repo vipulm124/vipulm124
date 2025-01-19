@@ -9,6 +9,7 @@ I am coding language agnostic, so I am not baised for a single programming langu
 
 In case you come across an opportunity for someone like me, please reach out to me.
 
+
 </p>
 
 <!-- TECHNOLOGIES -->
@@ -36,9 +37,12 @@ In case you come across an opportunity for someone like me, please reach out to 
 
 
 
-<a align="left" >
-    <img src="https://github-readme-stats.vercel.app/api?username=vipulm124&show_icons=true&theme=tokyonight" alt="my github stats" width="400"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipulm124&layout=compact&theme=tokyonight" alt="languages" height="160">
-</a>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vipulm124&theme=blueberry">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vipulm124&theme=blueberry">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vipulm124&theme=blueberry">
+</p>
+
 
 <!-- SOCIAL -->
 <h3>Let's connect 🤜🤛</h3>
